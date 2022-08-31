@@ -35,7 +35,7 @@ _**Note:** No data, public or private are shared in this repository.  A suitable
 
 [![Python v3.8](https://img.shields.io/badge/python-v3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 - [keras v2.9.0](https://keras.io/)
-- [tensorflow v2.6.2](https://www.tensorflow.org/)
+- [tensorflow v2.9.1](https://www.tensorflow.org/)
 - [scikit-image v0.19.3](https://scikit-image.org/)
 - [scikit-learn v1.1.2](https://scikit-learn.org/stable/)
 
