@@ -3,7 +3,7 @@
 
 ### About the Project
 
-[![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
+[![status: hibernate](https://github.com/GIScience/badges/raw/master/status/hibernate.svg)](https://github.com/GIScience/badges#hibernate)
 
 This repository holds code for the NHSX Analytics Unit PhD internship project led by Anwesha Mohanty from April to July 2022
 
