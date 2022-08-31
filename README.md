@@ -15,7 +15,7 @@ This repository holds code for the NHSX Analytics Unit PhD internship project le
 - [Flicker Faces High Quality (FFHQ): FFHQ](https://arxiv.org/abs/1912.04958) is a collection full-face images of people with normal skin. 
 
 
-_**Note:** No data, public or private are shared in this repository.  A suitable test image can be taken from http://www.elan-medical-clinic.co.uk/blog/rosacea-update-new-treatments-available/rosacea-advanced/ and saved in the data folder.
+_**Note:** No data, public or private are shared in this repository.  A suitable test image can be taken from [Here](http://www.elan-medical-clinic.co.uk/blog/rosacea-update-new-treatments-available/rosacea-advanced/) and saved in the data folder.
 
 ### Project Stucture
 
