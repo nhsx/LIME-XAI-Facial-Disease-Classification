@@ -34,6 +34,6 @@ repos:
       #  name: nbqa-flake8 - Python linting (notebooks)
       #  additional_dependencies: [ flake8==3.9.2 ]
   - repo: https://github.com/s-weigand/flake8-nb
-    rev: 0.5.2 # specify version here
+    #rev: 0.5.2 # specify version here
     hooks:
     - id: flake8-nb
